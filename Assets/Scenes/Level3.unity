@@ -893,6 +893,7 @@ MonoBehaviour:
   headImages:
   - {fileID: 21300018, guid: d084c5be3757227429671cf6321fbf65, type: 3}
   - {fileID: 21300000, guid: d90559dc393378d4ebffcbda737480d2, type: 3}
+  - {fileID: 21300000, guid: 1a556003e4b40f247aedcb14649b8417, type: 3}
   currLine: 5
   endLine: 10
   isActive: 0
@@ -1633,8 +1634,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textFile: {fileID: 4900000, guid: da6251c153b3b42f9b6d202b1334476f, type: 3}
-  startLine: 4
-  endLine: 9
+  startLine: 5
+  endLine: 10
   manager: {fileID: 252331163}
   requiredButtonPress: 0
   active: 1
@@ -2873,8 +2874,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textFile: {fileID: 4900000, guid: da6251c153b3b42f9b6d202b1334476f, type: 3}
-  startLine: 12
-  endLine: 15
+  startLine: 13
+  endLine: 18
   manager: {fileID: 252331163}
   requiredButtonPress: 0
   active: 1
@@ -4201,7 +4202,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1917408081}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -41.2, y: 65.7, z: 0}
+  m_LocalPosition: {x: -52.8, y: 24.63, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 487140202}
