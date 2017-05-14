@@ -1,0 +1,15 @@
+0 - Eric
+1 - Crystal
+
+
+0:This is it!
+0:This must be what the council are using to corrupt the magink!
+0:......
+0:I just realized I have no idea how to destroy it
+1:Must I do everything for you?
+1:Bring me closer to the crystal!
+
+
+0:There! That should do it!
+0:That should weaken the council's power considerably!
+0:But where is Ian? I was sure he would be here.

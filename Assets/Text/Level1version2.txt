@@ -1,0 +1,44 @@
+// 0- Eric
+// 1- Butcher
+// 2- Crystal / Bentley
+// 9- Tutorial
+
+// Beginning
+1:Eric!
+1:The Evil Wizard Council have taken over our town with the help of their Goblin mercenaries. Could you please help us?
+0:I'm not sure how I can help, after I left the council, they stole my magic drawing crystal. 
+0:However I've narrowed down the search for a new crystal to somewhere in this area.
+1:.... YOU were on the Evil wizard council? 
+0:...
+1:Anyway, I heard talk of a powerful crystal somewhere in the valley east of here. Maybe that's what you're looking for.
+0:Thanks! That sounds promising. I'll head there now!
+1:If you can, I heard that the source of the council's power is located in the goblin tower over in Lathdal, you must destroy it!
+0:How do you know all this?
+1:Goblins can't hold their liquor!
+0:...
+1:...
+0:...Well, I'll do what I can, after I get the crystal.
+
+
+// Taking the Crystal
+0:Yes! Finally a magic crystal! What's your name?
+2:[In a british accent]....I'm a crystal, I don't have a name.
+0:Hmmm, my last crystal was called Bentley, I'll call you Bentley II!
+2:Whatever floats your boat, so where are you going to drag me?
+0:We're going to destroy the Evil Wizard Council's source of power for that weird dude in the bloody apron.
+2:Sounds dull. Do you remember how to draw?
+0:Yes, I think so.
+2:Just click and drag your cursor around the sky to make platforms. Right click to erase the oldest line and regain it's magink
+0:I just said that I remember.
+2:Whatever. I can't hold endless amounts of platforms now. One long or two small ones at most.
+0:I'll be careful.
+2:And by the way, I hate making a mess, so please don't try to kill anyone with my powers, Eric.
+0:(...How did he know my name)
+
+// Fire in the end
+0:This fire is made with magink. Corrupted evil magink...
+0:Only my old friend Ian the Ignitor could have done this.
+0:He must be running things at the tower!
+2:Must we go to the tower?
+0:Ian is one of the three remaining members of the Evil Wizard Council, we must stop him.
+2:As you wish...

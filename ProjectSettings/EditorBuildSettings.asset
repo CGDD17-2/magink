@@ -4,4 +4,34 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: da7fb9a95aba1b9419a0516a98494197
+  - enabled: 1
+    path: Assets/Scenes/StoryIntro.unity
+    guid: 9c6f887bc9bb9444fb643ee93d9f5f30
+  - enabled: 1
+    path: Assets/Scenes/Tutorial-Level1.unity
+    guid: 5f3b273a9a5264bb7b676c7246e1562c
+  - enabled: 1
+    path: Assets/Scenes/RainIntro.unity
+    guid: eabce4e14ac1041d5a24b96728e1a22c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial-level2.unity
+    guid: 9337c2c58b1d12647bdca50c78914981
+  - enabled: 1
+    path: Assets/Scenes/CaveIntro.unity
+    guid: 9a61273d2016699408fb70801a9c13bd
+  - enabled: 1
+    path: Assets/Scenes/Cave_level.unity
+    guid: b6a1a515f580caf4485b0cc3097f5858
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 4cf478f16ce614587b4a2b7e8c2488d8
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: ec4f3ffdfbe7649aab3245c7d3a5ebe5
+  - enabled: 1
+    path: Assets/Scenes/BossBattle.unity
+    guid: 2ea2fcc9f6bc24701bc73c71418e2cf9

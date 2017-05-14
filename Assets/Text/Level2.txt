@@ -1,0 +1,13 @@
+// 0-Eric
+// 1-Crystal
+// 2-Goblin
+
+0:Look! A human skull! There must be goblins in the area, we must be careful.
+0:Wait, something is carved in the skull! Those barbarians!
+0:"Made in Duntown"
+1:...
+
+
+0:Lathdal and the tower are on the other side of the mountains.
+0:We must go through the crystal caverns.
+1:Let's get going, then.

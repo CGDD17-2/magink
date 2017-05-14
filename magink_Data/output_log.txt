@@ -1,0 +1,150 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Default GameObject BitMask: Blocker already registered
+ 
+(Filename:  Line: 103)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\magink\magink_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\magink\magink_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\magink\magink_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\magink\magink_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\magink\magink_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\magink\magink_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\magink\magink_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\magink\magink_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\magink\magink_Data\Managed\CursorControl.dll (this message is harmless)
+Loading D:\Unity\magink\magink_Data\Managed\CursorControl.dll into Unity Child Domain
+- Completed reload, in  0.271 seconds
+Platform assembly: D:\Unity\magink\magink_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\magink\magink_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.041175 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.804272 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 579.
+Total: 0.304213 ms (FindLiveObjects: 0.034133 ms CreateObjectMapping: 0.022186 ms MarkObjects: 0.243200 ms  DeleteObjects: 0.004266 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.250458 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 431.
+Total: 0.224000 ms (FindLiveObjects: 0.025173 ms CreateObjectMapping: 0.013653 ms MarkObjects: 0.172800 ms  DeleteObjects: 0.011946 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.361176 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1356.
+Total: 0.736854 ms (FindLiveObjects: 0.085760 ms CreateObjectMapping: 0.037120 ms MarkObjects: 0.590507 ms  DeleteObjects: 0.022186 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.011843 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 1073.
+Total: 4.282885 ms (FindLiveObjects: 0.085333 ms CreateObjectMapping: 0.037120 ms MarkObjects: 0.474027 ms  DeleteObjects: 3.685124 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.006934 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1049.
+Total: 0.773120 ms (FindLiveObjects: 0.081066 ms CreateObjectMapping: 0.040533 ms MarkObjects: 0.624640 ms  DeleteObjects: 0.026453 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.143468 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.581120 ms (FindLiveObjects: 0.024320 ms CreateObjectMapping: 0.020906 ms MarkObjects: 0.264107 ms  DeleteObjects: 0.271360 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.911361 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 5.694727 ms (FindLiveObjects: 0.055040 ms CreateObjectMapping: 0.031146 ms MarkObjects: 0.417280 ms  DeleteObjects: 5.190406 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.446293 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 822.
+Total: 0.368213 ms (FindLiveObjects: 0.043946 ms CreateObjectMapping: 0.022613 ms MarkObjects: 0.264533 ms  DeleteObjects: 0.036693 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 536)
+
+DEAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.164374 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 0.712534 ms (FindLiveObjects: 0.071680 ms CreateObjectMapping: 0.058026 ms MarkObjects: 0.571307 ms  DeleteObjects: 0.009386 ms)
+
+DEAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.782507 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 0.552107 ms (FindLiveObjects: 0.061866 ms CreateObjectMapping: 0.043093 ms MarkObjects: 0.437760 ms  DeleteObjects: 0.008533 ms)
+
+DEAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.571415 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 1.114454 ms (FindLiveObjects: 0.126720 ms CreateObjectMapping: 0.087893 ms MarkObjects: 0.884054 ms  DeleteObjects: 0.014080 ms)
+
+DEAD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.873387 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 830.
+Total: 1.728002 ms (FindLiveObjects: 0.230826 ms CreateObjectMapping: 0.136106 ms MarkObjects: 1.339308 ms  DeleteObjects: 0.021333 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 474 -> priority: 1 
+  Thread -> id: 1454 -> priority: 1 

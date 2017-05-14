@@ -1,0 +1,57 @@
+// 0- Eric
+// 1- Butcher
+// 2- Crystal / Bentley
+// 9- Tutorial
+
+// Beginning
+0:Come on! Goblins just took over Duntown! 
+0:On the day I'm supposed to collect the crystal and this happens!
+0:The goblins have even set up their laundry over the gate!
+0:And before breakfast! Where did these goblins even come from? 
+0:Well guess there's no breakfast now.
+1:Eric!
+1:Arcane Eric!
+1:Can you help us take back Duntown?
+0:Well I'm not much of an Arcane now, as I don't have my drawing crystal.
+1:Please Eric!
+1:If you can we would appreciate you at least try to get our town back.
+1:They must have come from the goblin outpost in the next valley, Lathdal.
+0:I don't really think I can talk them out of the town but if I find myself there I'll be sure to talk to them.
+0:Well, off I go to retrieve the crystal.
+
+// Talk to Buther
+1:Please go to Lathdal and talk to the goblins!
+0:As long as it won't be lethal. I'll go get this blasted drawing crystal first though.
+
+// Taking the Crystal
+0:Yes! Finally a crystal!
+0:After all this time without one. The Evil Wizard Council won't be happy with this!
+2:Well fella, then what are you going to do with me and my drawing powers?
+0:Wow! A talking crystal!
+0:What's your name?
+2:Bentley's my name. You still haven't answered the question. What's next on the agenda?
+0:I haven't really decided. 
+0:I just wanted a crystal as I haven't had one since I left the now-Evil Wizard Council. 
+2:What! You don't have an epic quest that you are taking me on?
+0:Well no, but the butcher of Duntown asked me to look into a goblin problem. Does that sound exciting enough?
+2:Looks like I don't have much of a choice. What's your name, wizard?
+0:I'm Arcane Eric. Let's get going to Lathdal and meet the goblins. 
+2:Allright! Do you remember how to draw?
+0:Yes, I think so.
+2:Just click and drag your cursor around the sky to make platforms!
+0:I just said that I remember.
+2:Good! I can't hold endless amounts of platforms now! One long or two small ones at most.
+0:I'll be careful.
+
+// Fire in the end
+0:This fire...
+0:This fire is made with Magink. Corrupted evil magink...
+2:So there are bad guys in the area?
+0:Probably...
+0:The worst part is that there is only one wizard that can make this sort of fire last.
+2:Hopefully some easily beaten bad guy?
+0:I don't think so...
+0:Only Ian the Ignitor could have done this. 
+0:Ian is one of the three remaining heads of the Evil Wizard Council and isn't easily beaten.
+2:Whelp. At least this is beginning to sound like an adventure.
+0:Let's go to Lathdal. This might be connected to the goblins.
